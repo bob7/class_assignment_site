@@ -6,8 +6,8 @@ Create a website for managing class assignments:
 
 [Demo](http://barmpalias.net/share/index.php)
 
-![alt text](https://github.com/bob7/class_assignment_site/blob/master/screenshots/1.png)
-![alt text](https://github.com/bob7/class_assignment_site/blob/master/screenshots/2.png)
+![alt text](https://github.com/bob7/class_assignment_site/screenshots/1.png)
+![alt text](https://github.com/bob7/class_assignment_site/screenshots/2.png)
 
 ### Instructions
 
