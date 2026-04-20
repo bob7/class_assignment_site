@@ -6,7 +6,7 @@ Create a website for managing class assignments:
 
 [Demo](http://barmpalias.net/share/index.php)
 
-<img src="screenshots/1.png" width="600" margin="auto"/>
+<img src="screenshots/1.png" width="600" align="center"/>
 
 ### Instructions
 
