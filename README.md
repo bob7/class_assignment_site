@@ -1,8 +1,8 @@
 Create a website for managing class assignments:
 
-- run the python script on a list of students/users
-- the login page is generated along with pwd.txt with the credentials for admin and each student 
-- upload the files in a webserver, as instructed below.
+- Run the python script on a list of students/users
+- Get the php site along with the credentials generated for admin and users
+- Upload the files in a webserver, as instructed below.
 
 [Demo](http://barmpalias.net/share/index.php)
 
