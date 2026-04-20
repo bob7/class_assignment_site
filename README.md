@@ -6,8 +6,8 @@ Create a website for managing class assignments:
 
 [Demo](http://barmpalias.net/share/index.php)
 
-![alt text](screenshots/1.png)
-![alt text](screenshots/2.png)
+<img src="screenshots/1.png" width="800" />
+<img src="screenshots/2.png" width="800" />
 
 ### Instructions
 
